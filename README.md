@@ -25,3 +25,11 @@ Welcome to my portfolio repository!  I am an enthusiastic civil engineer with mo
 ### Bachelor's of Civil Engineering
 **Gujarat Technological University**
 * The main sector that is responsible for building the infrastructure that underpins modern society is civil engineering. It all comes down to civil engineers when it comes to clean drinking water, water treatment, major structures like skyscrapers, bridges, and towers, foundations of structures, intelligent transportation networks, and all roadway and railway design. The engineering field most responsible for advancing society is also the oldest.
+
+## TECHNICAL SKILLS
+* ArcGIS Pro / ArcMAP- Advanced
+* SQL
+* Python
+* FME, Model Builder
+* AutoCAD
+* MS Office Suite
