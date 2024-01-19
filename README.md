@@ -1,5 +1,7 @@
 # Hello! I'm Aksharesh
-Welcome to my portfolio repository!  I am an enthusiastic civil engineer with more than 3 years of work experience in the industry, and I am currently a GIS student. Throughout my academic, work, and volunteering experiences, I have developed an effective management and coordination skills, allowing me to handle a wide range of responsibilities. As a civil engineer, I am passionate about designing sustainable solutions that address the challenges faced by our society. On this repository, you will find a collection of my work, including projects I have worked on, as well as my academic and professional accomplishments.
+Welcome to my portfolio repository!  I am an enthusiastic civil engineer with more than 3 years of work experience in the industry, and I am currently a GIS student. Throughout my academic, work, and volunteering experiences, I have developed an effective management and coordination skills, allowing me to handle a wide range of responsibilities. As a civil engineer, I am passionate about designing sustainable solutions that address the challenges faced by our society. On this repository, you will find a collection of my work, including projects I have worked on, as well as my academic and professional accomplishments. 
+
+* You can visit my porfolio [here!](https://editor.wix.com/html/editor/web/renderer/edit/e3cfa2ee-8b38-45f8-8b72-ff208fc7c679?metaSiteId=ff73e0f3-545b-4cfb-9685-cea05f1759a5)
 
 ## WORK EXPERIENCE
 ### Technical Assistant (Civil Engineer)
