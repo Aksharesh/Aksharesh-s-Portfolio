@@ -21,3 +21,7 @@ Welcome to my portfolio repository!  I am an enthusiastic civil engineer with mo
 * Geographic Information System (GIS) combines the power of relational database management systems with the flexibility of cartographic display technology and is used for problem-solving and decision-making.
 
 * This is a two-year, applied degree program consisting of two 15-week semesters in year one, followed by a work-integrated learning (practicum) in year two.
+
+### Bachelor's of Civil Engineering
+**Gujarat Technological University**
+* The main sector that is responsible for building the infrastructure that underpins modern society is civil engineering. It all comes down to civil engineers when it comes to clean drinking water, water treatment, major structures like skyscrapers, bridges, and towers, foundations of structures, intelligent transportation networks, and all roadway and railway design. The engineering field most responsible for advancing society is also the oldest.
